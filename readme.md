@@ -1,4 +1,4 @@
-<h4 align="center">Hi, I'm Ismail Hilmi</h4>
+<h4 align="center">I'm Ismail Hilmi</h4>
 <h6 align="center">a motivated fullstack developer, crypto and web3 enthusiast</h6>
 
 <h5 align="center">Languages and Tools</h5>
