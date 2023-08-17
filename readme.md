@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ismail Hilmi</h1>
-<h3 align="center">a motivated fullstack developer, student, crypto and web3 enthusiast</h3>
+<h3 align="center">a motivated fullstack developer, crypto and web3 enthusiast</h3>
 
 <h3 style="font-size: 10px" align="left">Connect with me:</h3>
 <p align="left">
